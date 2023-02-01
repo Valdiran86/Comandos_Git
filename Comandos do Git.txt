@@ -1,0 +1,33 @@
+CONFIGURAÇÃO DO GIT:
+
+* Git Init  -> Inicia  o git o computador, repositorio local
+
+* Vincular um repositorio local com o remoto:
+git remote add origin , com o link do repositorio do git Hub
+
+* git status -> verifica se tem alguma coisa para ser comitado
+
+* Adcionando arquivos para ser comitados
+Git  add mais o nome do  "arquivo"   Ou add    .
+
+git status verifica se foi adcionado
+
+* Comitando um arquivo
+git commit -m  "mais uma mensagem"
+
+*Enviar  o arquivo para o repositorio Remoto(Push)
+git push origin master
+
+*Como baixar arquivos do git para o computador usamos o seguinte comandos 
+git clone mais o link do repositorio
+
+*Clonar um repositorio 
+git clone mais o link do repositorio
+
+*Baixando a atualização do repositorio
+git pull origin master
+
+
+
+
+
